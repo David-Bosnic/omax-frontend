@@ -4,7 +4,7 @@ A headless SaaS product for users wanting to get into telecom. Client uses Svelt
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://jlt.davidbosnic.dev) All hosted on my homeserver!
+[View Live Demo]() All hosted on my homeserver! (Coming Soom)
 
 ## 📖 About
 
