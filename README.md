@@ -48,4 +48,3 @@ This repository showcases a demo version created for contracted work. The live d
 
 ---
 
-_Professional web development showcasing modern full-stack technologies_
