@@ -2,9 +2,6 @@
 
 A headless SaaS product for users wanting to get into telecom. Client uses SvelteKit, TypeScript, Tailwind CSS, and uses Django Rest Framework as an API Gateway.
 
-## 🌐 Live Demo
-
-[View Live Demo](https://demo.davidbosnic.dev) All hosted on my homeserver!
 
 ## 📖 About
 
